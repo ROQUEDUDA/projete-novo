@@ -1,0 +1,51 @@
+.container{
+    border: 1px rgb(16, 16, 17) solid;
+    height: 100vh;
+}
+#item1{
+    border: 1px rgb(234, 24, 220) solid;
+    height: 20%;
+    display: flex;
+    width: 100%;
+ }
+ #elemento1{
+    border:1px blue solid;
+    height: 100%;
+    width: 25%;
+ }
+ #elemento2{
+    border:1px blue solid;
+    height: 100%;
+    width: 25%;
+ }
+ #elemento3{
+    border:1px blue solid;
+    height: 100%;
+    width: 25%;
+ }
+ #elemento4{
+    border:1px blue solid;
+    height: 100%;
+    width: 25%;
+ }
+
+ #item2{
+    border: 1px rgb(36, 8, 146) solid;
+    height: 20%;
+ }
+ #item3{
+    border: 1px rgb(234, 237, 32) solid;
+    height: 20%;
+ }
+ #item4{
+    border: 1px rgb(16, 211, 195) solid;
+    height: 20%;
+ }
+ #item5{
+    border: 1px black solid;
+    height: 20%;
+ }
+ 
+ 
+ 
+  
